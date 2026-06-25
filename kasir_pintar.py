@@ -1,7 +1,7 @@
 # status awal untuk menjalankan perulangan
 melayani_pembeli = True
 
-print("===PROGRAM KASIR ANDIKA SHOP===")
+print("===PROGRAM KASIR PINTAR===")
 
 while melayani_pembeli:
     # 1. input total belanja
